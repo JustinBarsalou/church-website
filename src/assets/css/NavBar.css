@@ -1,0 +1,23 @@
+/* list alignment  */
+.navbar-nav {
+    flex-direction: row !important;
+}
+
+/* list items css  */
+.listElement {
+    margin: auto;
+}
+
+/* writing color  */
+/* navbar color  */
+.bg-dark {
+    color: rgb(86,128,159) !important;
+    background-color: rgb(131,154,166) !important;
+
+}
+
+/* hamburger css  */
+.navbar-toggler {
+    border: 5px solid transparent;
+}
+

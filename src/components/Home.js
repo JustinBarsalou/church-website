@@ -4,7 +4,7 @@ function Home() {
     return ( 
       <div className='Home'>
         <section>
-          Hello i am section 
+          Hello i HOME
         </section>
       </div>
 
