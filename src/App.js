@@ -60,23 +60,23 @@ class App extends Component {
               )
             }
           }/>
+          <Route path='/HowToFindUs' render={
+              ()=> {
+                return (
+                  <HowToFindUs></HowToFindUs>
+    
+                )
+              }
+            }/>
+            <Route path='/SundayServiceStream' render={
+              ()=> {
+                return (
+                  <SundayServiceStream></SundayServiceStream>
+    
+                )
+              }
+            }/>
         </div> 
-        <Route path='/HowToFindUs' render={
-            ()=> {
-              return (
-                <HowToFindUs></HowToFindUs>
-  
-              )
-            }
-          }/>
-          <Route path='/SundayServiceStream' render={
-            ()=> {
-              return (
-                <SundayServiceStream></SundayServiceStream>
-  
-              )
-            }
-          }/>
       </Router>
     );
 

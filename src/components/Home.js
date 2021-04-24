@@ -1,10 +1,13 @@
 import '../assets/css/Home.css'
+
 function Home() {
     
     return ( 
       <div className='Home'>
         <section>
-          Hello i HOME
+          <div>
+            <img src="../../assets/img/churchCircle.png" alt=''></img>
+          </div>
         </section>
       </div>
 

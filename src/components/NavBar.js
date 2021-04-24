@@ -20,11 +20,11 @@ function NavBar() {
                 <ul className="nav navbar-nav navbar-right">
                 <li className='listElement'><a href="/">Home</a></li>
                 <li className='listElement'><a href="/AboutUs">About Us</a></li>
-                <li className='listElement'><a href="/Services">Services</a></li>
                 <li className='listElement'><a href="/News">News</a></li>
+                <li className='listElement'><a href="/Services">Services</a></li>
                 <li className='listElement'><a href="/Photos">Photos</a></li>
-                <li className='listElement'><a href="/HowToFindUs">How To Find Us</a></li>
-                <li className='listElement'><a href="/SundayServiceStream">Sunday Service Stream</a></li>
+                {/* <li className='listElement'><a href="/HowToFindUs">How To Find Us</a></li>
+                <li className='listElement'><a href="/SundayServiceStream">Sunday Service Stream</a></li> */}
                 </ul>
             </div>
             </div>
